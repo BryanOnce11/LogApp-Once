@@ -23,9 +23,9 @@ To use this logApp project, follow the steps below:\
 5.Import the logapp.sql file from the config folder into your database to create the required tables.\
 6.Upload the project files to your web server or local development environment.\
 7.Access the index.php file in your web browser to register a new user.\
-8.Access the guestbook-login.php file to log in with the registered user credentials.\
+8.Access the guestbook-login.php file to log in with the registered user credentials.
 
-Authors\
+Authors
 Bryan Once
 ![red4](https://user-images.githubusercontent.com/125107236/233127902-18956ee2-13ba-4ba5-ae5f-3286228ca150.PNG)
 Mark Justine Ompad
