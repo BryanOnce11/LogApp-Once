@@ -1,11 +1,11 @@
 # LogApp-Once
-# Name\
+### Name
 logApp
 
-# Description\
+### Description
 logApp or Log Application is a web application that allows individuals to log in to their personal information and the time of their visit when they register. It has a Login Page for administrators to access the Personal Log, view the registration data in a table format, and log out when they are finished.
 
-# Visuals\
+### Visuals
 Registration
 ![red1](https://user-images.githubusercontent.com/125107236/233126118-5d03b6be-495f-4aeb-ab28-81a30aa64759.PNG)
 Admin Login
@@ -13,7 +13,7 @@ Admin Login
 Table of Data Collected from Registration
 ![red3](https://user-images.githubusercontent.com/125107236/233126310-151bce57-372a-4540-acea-330592995e4f.PNG)
 
-# Installation\
+### Installation
 To use this logApp project, follow the steps below:\
 
 1.Log into your MySQL server\
@@ -25,7 +25,7 @@ To use this logApp project, follow the steps below:\
 7.Access the index.php file in your web browser to register a new user.\
 8.Access the guestbook-login.php file to log in with the registered user credentials.
 
-# Authors
+### Authors
 Bryan Once
 ![red4](https://user-images.githubusercontent.com/125107236/233127902-18956ee2-13ba-4ba5-ae5f-3286228ca150.PNG)
 Mark Justine Ompad
